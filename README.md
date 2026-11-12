@@ -70,6 +70,13 @@ The corpus comprises 3,000 Indonesian news articles scraped from two major natio
 
 ---
 
+## 📦 Pre-Trained & Fine-Tuned Model Weights
+Due to GitHub's 100 MB file size limit, the fine-tuned BART model weights (2.3 GB) are hosted externally:
+- Fine-Tuned BART Model (2.3 GB): [Download from Google Drive](https://drive.google.com/drive/folders/1EIK1VhktdjVCZRv7v_3us0vV6hHKgwrm?usp=sharing)
+- MiniLM Sentence Embedding Model (471 MB): Automatically downloaded via Hugging Face (`sentence-transformers`) upon running `app.py`.
+
+---
+
 ## 🚀 How to Run the Prototype Locally
 ```bash
 # 1. Clone the repository
